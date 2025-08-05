@@ -1,25 +1,25 @@
 # 🌌 DarkNova
 
-**DarkNova** یک وب‌سایت تک‌صفحه‌ای شرکتی مدرن و واکنش‌گرا است که با طراحی مینیمال، استایل تیره (سیاه و زرد) و رابط کاربری حرفه‌ای، برای معرفی خدمات، محصولات یا تیم‌های استارتاپی/فناورانه مناسب می‌باشد.
+**DarkNova** DarkNova is a modern and responsive corporate single-page website with a minimal design, dark style (black and yellow), and professional user interface, suitable for introducing services, products, or startup/tech teams.
 
 ---
 
-## 🎨 ویژگی‌ها
+## 🎨 Features
 
-- طراحی تاریک با تم رنگی **سیاه و زرد**
-- ساختار تک‌صفحه‌ای (Single Page)
-- کاملاً ریسپانسیو (موبایل، تبلت و دسکتاپ)
-- انیمیشن‌های نرم و جذاب
-- بخش‌های قابل تنظیم:
-  - معرفی شرکت
-  - خدمات
-  - نمونه‌کارها / پروژه‌ها
-  - تیم ما
-  - تماس با ما
+- Dark design with black and yellow color theme
+- Single Page Structure
+- Fully responsive (mobile, tablet and desktop)
+- Smooth and attractive animations
+- Customizable sections:
+  - Company introduction
+  - Services
+  - Portfolios / Projects
+  - our team
+  - contact us
 
 ---
 
-## 🛠️ تکنولوژی‌ها
+## 🛠️ Technologies
 
 - HTML5 + CSS3
 - JavaScript
@@ -27,14 +27,11 @@
 - Tailwind
 ---
 
-## ⚙️ نحوه نصب و اجرا
+## ⚙️ How to install and run
 
 ```bash
-# گام 1: کلون کردن مخزن
 git clone https://github.com/your-username/darknova.git
 
-# گام 2: ورود به پوشه پروژه
 cd darknova
 
-# گام 3: باز کردن در مرورگر
-index.html را با مرورگر دلخواه باز کنید
+index.html Open with your preferred browser.
