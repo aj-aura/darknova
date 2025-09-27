@@ -30,7 +30,7 @@
 ## ⚙️ How to install and run
 
 ```bash
-git clone https://github.com/your-username/darknova.git
+git clone https://github.com/aj-aura/darknova.git
 
 cd darknova
 
